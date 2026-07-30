@@ -1,0 +1,7 @@
+python-aiml
+pandas
+scikit-learn
+nltk
+tensorflow
+pillow
+streamlit

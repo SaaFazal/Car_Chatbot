@@ -1,0 +1,157 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <!-- Basic 10+ patterns for Car Chatbot -->
+    <category>
+        <pattern>WHAT IS TESLA</pattern>
+        <template>Tesla is an American automotive and energy company known for its electric cars.</template>
+    </category>
+    <category>
+        <pattern>WHO MAKES COROLLA</pattern>
+        <template>Toyota makes the Corolla, which is one of the best-selling cars in the world.</template>
+    </category>
+        <category>
+        <pattern>WHAT IS AN SUV</pattern>
+        <template>An SUV (Sports Utility Vehicle) is a car classification that combines elements of road-going passenger cars with features from off-road vehicles.</template>
+    </category>
+    <category>
+        <pattern>WHICH COMPANY OWNS PORSCHE</pattern>
+        <template>Porsche is owned by the Volkswagen Group.</template>
+    </category>
+    <category>
+        <pattern>WHAT DOES BMW STAND FOR</pattern>
+        <template>BMW stands for Bayerische Motoren Werke, which translates to Bavarian Motor Works.</template>
+    </category>
+    <category>
+        <pattern>WHO INVENTED THE FIRST CAR</pattern>
+        <template>Karl Benz is widely credited with inventing the first modern automobile in 1886.</template>
+    </category>
+    <category>
+        <pattern>WHAT IS THE FASTEST CAR IN THE WORLD</pattern>
+        <template>Currently, cars like the Bugatti Chiron Super Sport 300+ and SSC Tuatara are among the fastest production cars, capable of exceeding 300 mph.</template>
+    </category>
+    <category>
+        <pattern>IS FERRARI ITALIAN</pattern>
+        <template>Yes, Ferrari is a famous Italian luxury sports car manufacturer based in Maranello, Italy.</template>
+    </category>
+    <category>
+        <pattern>DO YOU LIKE CARS</pattern>
+        <template>As a virtual assistant, I don't drive, but I find automotive technology fascinating!</template>
+    </category>
+    <category>
+        <pattern>WHAT IS A HYBRID CAR</pattern>
+        <template>A hybrid car uses two or more distinct types of power, such as internal combustion engine to drive an electric generator that powers an electric motor.</template>
+    </category>
+    <category>
+        <pattern>HI</pattern>
+        <template>Hello! Ask me anything about cars.</template>
+    </category>
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello! Ask me anything about cars.</template>
+    </category>
+    <category>
+        <pattern>BYE</pattern>
+        <template>Goodbye! Drive safely!</template>
+    </category>
+    <!-- Image Classification Triggers (Task C) -->
+    <category>
+        <pattern>WHAT IS IN THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHATS IN THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHAT IS IN THIS IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHATS IN THIS IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CLASSIFY IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CLASSIFY</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>IDENTIFY CAR</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>IDENTIFY LOGO</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CHECK THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHAT CAR BRAND IS THIS</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHAT CAR BRAND IS IN THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CLASSIFY THIS IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CLASSIFY THIS</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>IDENTIFY THIS CAR</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>IDENTIFY CAR BRAND</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHAT IS THIS CAR</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>IDENTIFY THIS</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CHECK IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CHECK THIS IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>ANALYZE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>ANALYZE THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHICH CAR IS THIS</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>ANALYSE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>WHAT CAR IS THIS</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+    <category>
+        <pattern>CLARIFY THE IMAGE</pattern>
+        <template>CLASSIFY_IMAGE</template>
+    </category>
+
+</aiml>
